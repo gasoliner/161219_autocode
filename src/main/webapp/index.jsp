@@ -12,7 +12,8 @@
     </style>
 </head>
 <body>
-<h2 align="center">follow your code you accepted!</h2>
+
+<h2 align="center">follow your code you accepted! (for c or c++)</h2>
 <hr/>
 <div style="text-align: center">
     <h3>page:${page}</h3>
